@@ -1,5 +1,3 @@
-
-
 fx_version 'adamant'
 games { 'gta5' }
 
@@ -10,7 +8,7 @@ lua54 'yes'
 
 
 author 'erkanpl'
-description 'Donater Car Spawner for AHRP'
+description 'Donater Car based on OX_Lib'
 version '1.0'
 scriptname 'ee-dono_veh'
 
