@@ -6,7 +6,7 @@
 
 Clone the Repository:
 
-git clone https://github.com/erkanemal/ee-vehiclespawner.git
+> git clone https://github.com/erkanemal/ee-vehiclespawner.git
 
 Install Dependencies:
 
