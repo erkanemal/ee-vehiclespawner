@@ -9,11 +9,12 @@ Clone the Repository:
 git clone https://github.com/erkanemal/ee-vehiclespawner.git
 
 Install Dependencies:
+
 ox_lib
-https://github.com/overextended/ox_lib.git
+> https://github.com/overextended/ox_lib.git
 
 Vmenu
-https://github.com/TomGrobbe/vMenu.git
+> https://github.com/TomGrobbe/vMenu.git
 
 📬 Contact Have questions, suggestions, or want to collaborate? Reach out to me via 
 Discord: > erkanpl
